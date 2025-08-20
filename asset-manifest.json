@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/guitti-sito/static/css/main.a57debe4.css",
+    "main.js": "/guitti-sito/static/js/main.fa9a4033.js",
+    "index.html": "/guitti-sito/index.html",
+    "main.a57debe4.css.map": "/guitti-sito/static/css/main.a57debe4.css.map",
+    "main.fa9a4033.js.map": "/guitti-sito/static/js/main.fa9a4033.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a57debe4.css",
+    "static/js/main.fa9a4033.js"
+  ]
+}
